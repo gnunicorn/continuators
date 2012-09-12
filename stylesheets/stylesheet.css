@@ -322,6 +322,14 @@ footer {
   color: #aaa;
 }
 
+footer ul, .series-listing {
+  list-style: none;
+}
+
+footer ul li, .series-listing li {
+  display: inline;
+}
+
 footer a {
   color: #666;
 }

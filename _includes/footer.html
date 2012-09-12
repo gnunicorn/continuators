@@ -1,7 +1,13 @@
 
-        </section>
-
         <footer>
+
+          {% if with_series_listing %}
+            <section class="clearfix">
+              <h4>Series worth rescuing...</h4>
+              {% include series_list.html %}
+            </section>
+          {% endif %}
+          
           More about the Continuators:
           {% assign pages_list = site.pages %}
           {% assign group = 'page' %}
