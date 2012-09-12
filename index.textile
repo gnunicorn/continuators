@@ -8,7 +8,7 @@ title: Continuators
 
   <p>Recently we've learned, that - similar to Firefly and Dollhouse - the TV Networks once again decided to cancel some of our most beloved shows. Though we and many others would be willing and able to pay for them to continue, the networks decided to cancel them because of their ratings or other reasons: <a href="30rock.html">30 Rock</a>, <a href="breaking_bad.html">Breaking Bad</a> and even <a href="weeds.html">Weeds</a> will not have another season ahead. </p>
 
-  <p>Outraged we spoke to a <a href="about_us.html#david">friend of ours</a>, who is in the movie and film financing business about this problem and he told us: </p>
+  <p>Outraged, we spoke to a <a href="about_us.html#david">friend of ours</a> who is in the movie and film financing business about this, and he told us: </p>
   <blockquote>
     <p>TV-Series aren't even that expensive. They cost between 10-30  million dollars a season but are way more cost-efficient to produce than any Hollywood movie. And did you know that the actual production rights are usually held by the production companies and not even the TV-networks?</p>
     <p> If you can find enough people who would sign up, saying they'd actually give 30 bucks for a project, we can take that to the producers and we can just order the next season ourselves</p></blockquote>
