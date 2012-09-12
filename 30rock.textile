@@ -4,5 +4,5 @@ title: 30 Rock
 series_name: 30 Rock
 publisher: NBC
 news_url: http://tvseriesfinale.com/tv-show/30-rock-season-seven-22931/
-series_image: /images/30Rock_Logo.jpg
+series_image: /images/30Rock_logo.jpg
 ---
