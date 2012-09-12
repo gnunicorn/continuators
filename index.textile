@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Continuators
-
 ---
+
 <section id="main_content">
   <h3>I want my Series back</h3>
 
