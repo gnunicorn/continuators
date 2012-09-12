@@ -89,6 +89,13 @@ header img {
   max-width: 250px;
 }
 
+.like-btns {
+  display: block;
+  float: right;
+}
+.like-btns > div {
+  display: inline;
+}
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
