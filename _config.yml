@@ -6,4 +6,5 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
-url: https://github.com/ligthyear/continuators
+plugins:     ./_plugins
+url: http://www.continuators.com
