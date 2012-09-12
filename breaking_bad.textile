@@ -2,7 +2,7 @@
 layout: series
 title: Breaking Bad
 series_name: Breaking Bad
-publisher: AMC
+publisher: Vince Gilligan and AMC
 news_url: http://tvseriesfinale.com/tv-show/breaking-bad-renewed-finale-20524/
 series_image: http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/200px-Breaking_Bad_logo.svg.png
 ---
