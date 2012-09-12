@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Weeds- give it back</title>
+    <title>{{page.title }}</title>
   </head>
 
   <body>
@@ -18,20 +18,26 @@
       <div class="inner">
 
         <header>
-          <h1>Weeds</h1>
+          <h1>{{page.title}}</h1>
           <h2>give it back</h2>
         </header>
 
         <hr>
 
         <section id="main_content">
-          <h3>Dear Showtime,</h3>
 
-<p>I recently learned you will <a href="http://tvseriesfinale.com/tv-show/weeds-cancelled-season-nine-23454/">discontinue my beloved TV-Series "Weeds"</a>. I think you are doing a big mistake. Me and many others love this series and would love to see another season happening. But we are done waiting for you to realised this and instead decided to continue fund the next season ourselves.</p>
 
-<p>By signing the following form I commit <strong>to spent 29,90€</strong> in order to realise the next full season of Weeds.</p>
+          <h3>Dear {{page.publisher}},</h3>
 
-<form action="https://docs.google.com/spreadsheet/formResponse?formkey=dFFWaEpQX1V2Ti1xRW4zZHZ2c0wtUXc6MA&amp;embedded=true&amp;ifq" method="POST" id="ss-form">
+          <p>I recently learned you will <a href="{{ page.news_url }}">discontinue my beloved TV-Series "{{page.series_name}}"</a>. I think you are doing a big mistake. Me and many others love this series and would love to see another season happening. But we are done waiting for you to realised this and instead decided to continue fund the next season ourselves.</p>
+
+          <p>By signing the following form I commit <strong>to spent {% if page.custom_price %} {{custom_price}} {% else %}29,90€{% endif %}</strong> in order to realise the next full season of {{page.series_name}}.</p>
+
+          {{ content }}
+
+
+
+<form action="{{ page.form_url }}" method="POST" id="ss-form">
 
 <br>
 <div class="errorbox-good">
