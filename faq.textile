@@ -5,18 +5,18 @@ title: FAQ
 
 h2. What is Continuators?
 
-Continuators is a new way for you to keep your favourite TV-Series going! The world’s
+Continuators is a new way for you to keep your favorite TV-Series going! The world’s
 favorite TV-Series sometimes get canceled because the ratings may be not good enough
 for a TV-network to continue production, but still there are millions of fans all over
 the world who would gladly pre-order a season pass to make future episodes possible.
 Continuators makes it possible to aggregate that demand by creating a community off
-fans around each project that make their intent of preordering the series known tot he
+fans around each project that make their intent of pre-ordering the series known to the
 production companies and the series creators.
 
 h3. All-or-nothing funding?
 
 Every project on Continuators must be have the minimum amount of pre-orders that
-we’ve set at a general 29,99$ per season per series before the deadline expires.
+we’ve set at a general $29.99 per season per series before the deadline expires.
 
 If a series does not find enough support no one gets charged. You know the drill from
 your favorite daily-deal sites: if you want to help a project reach its goal, spread the
@@ -37,8 +37,8 @@ being canceled.
 
 h3. How do I buy a deal?
 
-Found a TV-Series you want to Support? Great! Just register your wish to pre-order
-another season. And again: don’t worry. AT this stage we want nothing but your support
+Found a TV-Series you want to support? Great! Just register your wish to pre-order
+another season. And again: don’t worry. At this stage we want nothing but your support
 and that you spread the word to your friends so that we get enough people together for
 your favourite series.
 
@@ -67,42 +67,17 @@ that the series has been successfully funded and you have provided payment detai
 h3. Where does Continuators get the projects from?
 
 Honestly: we just put our favourite cancelled or soon-to be-ending series on our site and
-hope that enough people spread the word. Once we have a serious enough commitment
-by our community for a series we talkt he producers and show creators to see if we can
+hope that enough people spread the word. Once we have enough commitments
+by our community for a series we talk to the producers and show creators to see if we can
 get a deal for our members.
 
-h2. Account Setup
 
-h3. How can I change the email address associated with my account?
-
-Make sure you’re logged in to Continuators and go to your account page.
-
-h3. How do I adjust which emails I receive?
-
-Make sure you’re logged in to Continuators and go to your notifications page.
-
-h3. I forgot my password, how do I log in?
-
-You can request a password reset at the bottom of the login page.
-
-h3. How can I log in using my Facebook account?
-
-You can sign in with Facebook using the Facebook login button on the login page.
-
-h3. How do I disconnect my Facebook account?
-
-Log in to Continuators through Facebook, then go to your account settings to disconnect
-from Facebook and set a password on your account page.
-
-h3. How do I delete my account?
-
-Your account can be deleted from your account page. Warning: this is not reversible!
 
 h2. About
 
 h3. How can I contact Continuators?
 
-There's a "Contact" button at the bottom of each page.
+There's a "Contact" button at the bottom of the main page.
 
 h3. Who is the team behind Continuators?
 

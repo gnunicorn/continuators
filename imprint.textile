@@ -5,7 +5,7 @@ title: Imprint
 
 h2. Corporate Information
 
-Continuators UG,  Brunnenstr. 4 | 10119 Berlin | Germany
+Continuators UG,  Swinemünder Strasse 41 | 13355 Berlin | Germany
 E-Mail info@continuators.com
 Managing Directors: Benjamin Kampmann, Dr. Florian Resatsch
 Incorporated at: Amtsgericht Berlin
