@@ -4,17 +4,17 @@ title: Continuators
 ---
 
 <section id="main_content">
-  <h3>I want my Series back</h3>
+  <h3>I want my Series back!</h3>
 
-  <p>Recently I learned, that - similar to Firefly and Dollhouse - the TV Networks once again decided to cancel my most beloved shows. Though I and many others are willing and able to pay for them to continue, these networks decided to cancel them ignoring our wishes: <a href="30rock.html">30 Rock</a>, <a href="breaking_bad.html">Breaking Bad</a> and even <a href="weeds.html">Weeds</a> will not have another season ahead. </p>
+  <p>Recently we've learned, that - similar to Firefly and Dollhouse - the TV Networks once again decided to cancel some of our most beloved shows. Though we and many others would be willing and able to pay for them to continue, the networks decided to cancel them because of their ratings or other reasons: <a href="30rock.html">30 Rock</a>, <a href="breaking_bad.html">Breaking Bad</a> and even <a href="weeds.html">Weeds</a> will not have another season ahead. </p>
 
-  <p>Outraged I spoke to a <a href="about_us.html#david">Friend of mine</a>, who is in the movie and film financing business about this problem and he told me: </p>
+  <p>Outraged we spoke to a <a href="about_us.html#david">Friend of ours</a>, who is in the movie and film financing business about this problem and he told us: </p>
   <blockquote>
-    <p>These projects aren't even that expensive. They cost a couple of million dollars a season but are way cheaper than any hollywood movie. And did you know that the actual publishing rights are usually hold by the producers/directors and not even the movie networks?</p>
-    <p>Now, listen, if you can find enough people who would sign up, saying they'd actually give 30 bucks for the project, I can take that to the producer and we can just produce the next season ourself</p></blockquote>
+    <p>TV-Series aren't even that expensive. They cost between 10-30  million dollars a season but are way more cost-efficient to produce than any Hollywood movie. And did you know that the actual production rights are usually held by the production companies and not even the TV-networks?</p>
+    <p> If you can find enough people who would sign up, saying they'd actually give 30 bucks for a project, we can take that to the producers and we can just order the next season ourselves</p></blockquote>
 
   <h3>Here we go</h3>
-  <p>And so I did. This is a very simple page, nothing more than a short description of the idea and a sign up form. So, if you are a TV Series Junkie like I am, just select your show and sign up. When we got enough people together, we'll take that list to the producers and try to convince them to produce the next season for us.</p>
+  <p>And so w did. This is a very simple page, nothing more than a short description of the idea and a sign up form. So, if you are a TV Series Junkie like ww are, just select your show and sign up. When we've got enough people together, we'll take that list to the producers and try to convince them to produce the next season - for us, the CONTINUATORS!</p>
 
 </section>
 <section>
