@@ -6,7 +6,7 @@ title: The Team
 h3. Florian Resatsch, CEO
 
 
-<img alt="thumbnail" style="height: 134px; float:left; margin: 10px;" src="{{site.url}}/images/florian.jpg">
+<img alt="thumbnail" style="height: 134px; float:left; margin: 10px;" src="/images/florian.jpg">
 
 Dr. Florian Resatsch is managing director and co-founder of servtag, a company focused on object and location-aware information services. servtag was founded in 2007 in Berlin and currently develops its main service Radcarpet, a mobile advertising startup.
 
@@ -18,7 +18,7 @@ Florian studied business administration at the University of Augsburg and worked
 
 h3. Benjamin Kampmann, Tech-Lead
 
-<img alt="thumbnail" style="height: 134px; float:right; margin: 10px;" src="{{site.url}}/images/ben.jpg"> 
+<img alt="thumbnail" style="height: 134px; float:right; margin: 10px;" src="/images/ben.jpg"> 
 
 Ben - a self-learned Software Developer from Germany. Before he came to Berlin to work as a Project Manager three years ago, he worked for a multimedia startup in Barcelona, Spain. Now he’s partner in a number of startups and one oft the coolest cats on the programing scene.
 
@@ -30,7 +30,7 @@ Ben - a self-learned Software Developer from Germany. Before he came to Berlin t
 
 h3. David Groenewold, Co-Founder
 
-<img style="height: 134px;  float:left; margin: 10px;"alt="thumbnail"  src="{{site.url}}/images/david.jpg">
+<img style="height: 134px;  float:left; margin: 10px;"alt="thumbnail"  src="/images/david.jpg">
 
 David has been financing films and TV-shows all his life and knows the nuts and bolts of the film and television industry.
 

@@ -11,7 +11,7 @@
 
   {{ content }}
 
-  <p>By signing the following form I commit <strong>to pre-order {% if page.custom_price %} {{custom_price}} {% else %}$29.99{% endif %}</strong> in order to realise the next full season of {{page.series_name}}. <a href="{{site.url}}/faq.html">What does that mean?</a></p>
+  <p>By signing the following form I commit <strong>to pre-order {% if page.custom_price %} {{custom_price}} {% else %}$29.99{% endif %}</strong> in order to realise the next full season of {{page.series_name}}. <a href="/faq.html">What does that mean?</a></p>
 
 
   <form id="series-signup" action="https://docs.google.com/spreadsheet/formResponse?formkey=dFFWaEpQX1V2Ti1xRW4zZHZ2c0wtUXc6MA" method="POST" style="font-family: 'Mr Dafoe'; font-size: 28px" onsubmit="return false;">
@@ -283,7 +283,7 @@
 
 <section class="clearfix" style="margin-top: 30px">
   <h4> Comments</h4>
-  <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-num-posts="10"></div>
+  <div class="fb-comments" data-href="{{page.url}}" data-num-posts="10"></div>
 </section>
 
 <section class="clearfix">
