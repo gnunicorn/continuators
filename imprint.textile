@@ -1,0 +1,14 @@
+---
+layout: page
+title: Imprint
+---
+
+h2. Corporate Information
+
+Continuators UG,  Brunnenstr. 4 | 10119 Berlin | Germany
+E-Mail info@continuators.com
+Managing Directors: Ben Kampmann, Dr. Florian Resatsch
+Incorporated at: Amtsgericht Berlin
+
+Disclaimer
+This Website may contain links to external websites. Continuators.com is not responsible for the content presented by external websites, which you use at your own risk. The providers of these external websites are solely responsible for the content presented by these websites.
