@@ -5,4 +5,5 @@ series_name: Heroes
 publisher: Tim Kring and NBC
 news_url: http://tvseriesfinale.com/tv-show/heroes/
 series_image: http://upload.wikimedia.org/wikipedia/de/thumb/2/28/HeroesLogo.jpg/320px-HeroesLogo.jpg
+past_tense: 1
 ---
