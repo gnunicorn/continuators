@@ -8,10 +8,11 @@
 
   <p>I recently learned you will <a href="{{ page.news_url }}">discontinue my beloved TV-Series "{{page.series_name}}"</a>. I think you are doing a big mistake. Me and many others love this series and would love to see another season happening. But we are done waiting for you to realised this and instead decided to continue fund the next season ourselves.</p>
 
-  <p>By signing the following form I commit <strong>to spent {% if page.custom_price %} {{custom_price}} {% else %}29,90€{% endif %}</strong> in order to realise the next full season of {{page.series_name}}.</p>
 
   {{ content }}
 
+
+  <p>By signing the following form I commit <strong>to spent {% if page.custom_price %} {{custom_price}} {% else %}29,90€{% endif %}</strong> in order to realise the next full season of {{page.series_name}}.</p>
 
 
   <form action="{{ page.form_url }}" method="POST" id="ss-form">
