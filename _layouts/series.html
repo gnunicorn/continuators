@@ -1,4 +1,5 @@
 {% assign subtitle = "to be continued" %}
+{% assign header_image = page.series_image %}
 {% include header.html %}
 <link href='http://fonts.googleapis.com/css?family=Mr+Dafoe' rel='stylesheet' type='text/css'>
 <section id="main_content">
@@ -327,10 +328,10 @@ $('#series-signup').submit(function(){
 
   FB.ui({
     method: 'feed',
-    link: 'https://developers.facebook.com/docs/reference/dialogs/',
-    picture: 'http://fbrell.com/f8.jpg',
+    link: document.location.href,
+    picture: '{% if page.series_image %}{{page.series_image}}{%else%}{{http://fbrell.com/f8.jpg}}{%endif%}',
     name: 'Share on Wall',
-    caption: 'I want {{page.series}} back.',
+    caption: 'I want {{page.series_name}} back.',
     description: 'So I signed up to make it ourselves. Join us now!'
   });
 
