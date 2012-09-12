@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>{{page.title }}</title>
+    <title>{{page.title }} >> Continuators</title>
   </head>
 
   <body>
@@ -19,7 +19,11 @@
 
         <header>
           <h1>{{page.title}}</h1>
-          <h2>give it back</h2>
+          <h2>{% if page.subtitle %}
+              {{ page.subtitle }}
+            {% elsif subtitle %}
+              <a href="/">{{subtitle}}</a>
+            {% else %}<a href="/">The continuators</a>{% endif %}</h2>
         </header>
 
         <hr>
