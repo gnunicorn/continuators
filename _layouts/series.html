@@ -2,18 +2,19 @@
 {% assign header_image = page.series_image %}
 {% include header.html %}
 <link href='http://fonts.googleapis.com/css?family=Mr+Dafoe' rel='stylesheet' type='text/css'>
-<section id="main_content">
 
-  <div class="like-btns">
-        <div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="like"></div>
-        <div style="position: relative; top: 3px;"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
-  </div>
+<div class="like-btns">
+    <div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="like"></div>
+    <div style="position: relative; top: 3px;"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
+    <div class="g-plusone" data-size="small" data-annotation="inline" data-width="120"></div>
+</div>
+<section id="main_content">
   <h3>Dear {{page.publisher}},</h3>
 
 {% if page.past_tense %}
-  <p style="clear:both">you <a href="{{ page.news_url }}">cancelled my beloved TV-Series "{{page.series_name}}"</a>. I think that is a big mistake. I and many others love this series and would love to see another season happening. So here's our offer to you: if we get enough people to pre-order another full season at $29.99 you should be able to continue production with the show's creators. We'll fund the next ourselves!</p>
+  <p>you <a href="{{ page.news_url }}">cancelled my beloved TV-Series "{{page.series_name}}"</a>. I think that is a big mistake. I and many others love this series and would love to see another season happening. So here's our offer to you: if we get enough people to pre-order another full season at $29.99 you should be able to continue production with the show's creators. We'll fund the next ourselves!</p>
 {% else %}
-  <p style="clear:both">I recently learned you will <a href="{{ page.news_url }}">discontinue my beloved TV-Series "{{page.series_name}}"</a>. I think it would be a big mistake. I and many others love this series and would love to see another season happening. So here's our offer to you: if we get enough people to pre-order another full season at $29.99 you should be able to continue production with the show's creators. We'll fund the next season ourselves!</p>
+  <p>I recently learned you will <a href="{{ page.news_url }}">discontinue my beloved TV-Series "{{page.series_name}}"</a>. I think it would be a big mistake. I and many others love this series and would love to see another season happening. So here's our offer to you: if we get enough people to pre-order another full season at $29.99 you should be able to continue production with the show's creators. We'll fund the next season ourselves!</p>
 {% endif %}
 
   {{ content }}
@@ -344,4 +345,13 @@ $('#series-signup').submit(function(){
 });
 </script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 {% include footer.html %}

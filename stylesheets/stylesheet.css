@@ -92,9 +92,10 @@ header img {
 .like-btns {
   display: block;
   float: right;
+  margin-right: -150px;
 }
 .like-btns > div {
-  display: inline;
+  display: block;
 }
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
